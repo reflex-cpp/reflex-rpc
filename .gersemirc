@@ -1,0 +1,2 @@
+definitions: [./tools/cmake/diagnostics.cmake, ./tools/cmake/gersemi_stubs.cmake]
+line_length: 120
